@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/D3-project/static/css/main.31d6cfe0.css",
+    "main.js": "/D3-project/static/js/main.aa548ca9.js",
+    "index.html": "/D3-project/index.html",
+    "main.aa548ca9.js.map": "/D3-project/static/js/main.aa548ca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.aa548ca9.js"
+  ]
+}
