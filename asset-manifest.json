@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/D3-project/static/css/main.7574d839.css",
-    "main.js": "/D3-project/static/js/main.16e65066.js",
+    "main.js": "/D3-project/static/js/main.10667978.js",
     "index.html": "/D3-project/index.html",
     "main.7574d839.css.map": "/D3-project/static/css/main.7574d839.css.map",
-    "main.16e65066.js.map": "/D3-project/static/js/main.16e65066.js.map"
+    "main.10667978.js.map": "/D3-project/static/js/main.10667978.js.map"
   },
   "entrypoints": [
     "static/css/main.7574d839.css",
-    "static/js/main.16e65066.js"
+    "static/js/main.10667978.js"
   ]
 }
