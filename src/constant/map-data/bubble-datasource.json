@@ -1,0 +1,522 @@
+[
+    {
+        "color": "#7f38A0",
+        "female": 1268,
+        "male": 4953,
+        "percentage": 20.38,
+        "name": "China",
+        "rank": 1
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1264,
+        "male": 4189,
+        "percentage": 23.18,
+        "name": "United States",
+        "rank": 2
+    },
+    {
+        "color": "#7f38A0",
+        "female": 259,
+        "male": 972,
+        "percentage": 21.04,
+        "name": "Canada",
+        "rank": 3
+    },
+    {
+        "color": "#7f38A0",
+        "female": 206,
+        "male": 680,
+        "percentage": 23.25,
+        "name": "United Kingdom",
+        "rank": 4
+    },
+    {
+        "color": "#7f38A0",
+        "female": 174,
+        "male": 1280,
+        "percentage": 11.97,
+        "name": "Germany",
+        "rank": 5
+    },
+    {
+        "color": "#7f38A0",
+        "female": 107,
+        "male": 478,
+        "percentage": 18.29,
+        "name": "Italy",
+        "rank": 6
+    },
+    {
+        "color": "#7f38A0",
+        "female": 100,
+        "male": 366,
+        "percentage": 21.46,
+        "name": "Korea",
+        "rank": 7
+    },
+    {
+        "color": "#7f38A0",
+        "female": 89,
+        "male": 439,
+        "percentage": 16.86,
+        "name": "India",
+        "rank": 8
+    },
+    {
+        "color": "#7f38A0",
+        "female": 89,
+        "male": 404,
+        "percentage": 18.05,
+        "name": "Netherlands",
+        "rank": 9
+    },
+    {
+        "color": "#7f38A0",
+        "female": 89,
+        "male": 489,
+        "percentage": 15.4,
+        "name": "Australia",
+        "rank": 10
+    },
+    {
+        "color": "#7f38A0",
+        "female": 80,
+        "male": 282,
+        "percentage": 22.1,
+        "name": "Brazil",
+        "rank": 11
+    },
+    {
+        "color": "#7f38A0",
+        "female": 74,
+        "male": 254,
+        "percentage": 22.56,
+        "name": "Spain",
+        "rank": 12
+    },
+    {
+        "color": "#7f38A0",
+        "female": 55,
+        "male": 399,
+        "percentage": 12.11,
+        "name": "Switzerland",
+        "rank": 13
+    },
+    {
+        "color": "#7f38A0",
+        "female": 44,
+        "male": 263,
+        "percentage": 14.33,
+        "name": "Sweden",
+        "rank": 14
+    },
+    {
+        "color": "#7f38A0",
+        "female": 44,
+        "male": 215,
+        "percentage": 16.99,
+        "name": "France",
+        "rank": 15
+    },
+    {
+        "color": "#7f38A0",
+        "female": 39,
+        "male": 175,
+        "percentage": 18.22,
+        "name": "Austria",
+        "rank": 16
+    },
+    {
+        "color": "#7f38A0",
+        "female": 38,
+        "male": 88,
+        "percentage": 30.16,
+        "name": "Israel",
+        "rank": 17
+    },
+    {
+        "color": "#7f38A0",
+        "female": 37,
+        "male": 323,
+        "percentage": 10.28,
+        "name": "Singapore",
+        "rank": 18
+    },
+    {
+        "color": "#7f38A0",
+        "female": 25,
+        "male": 110,
+        "percentage": 18.52,
+        "name": "Finland",
+        "rank": 19
+    },
+    {
+        "color": "#7f38A0",
+        "female": 23,
+        "male": 88,
+        "percentage": 20.72,
+        "name": "Norway",
+        "rank": 20
+    },
+    {
+        "color": "#7f38A0",
+        "female": 18,
+        "male": 96,
+        "percentage": 15.79,
+        "name": "Portugal",
+        "rank": 21
+    },
+    {
+        "color": "#7f38A0",
+        "female": 16,
+        "male": 255,
+        "percentage": 5.9,
+        "name": "Japan",
+        "rank": 22
+    },
+    {
+        "color": "#7f38A0",
+        "female": 15,
+        "male": 16,
+        "percentage": 48.39,
+        "name": "South Africa",
+        "rank": 23
+    },
+    {
+        "color": "#7f38A0",
+        "female": 15,
+        "male": 4,
+        "percentage": 78.95,
+        "name": "Peru",
+        "rank": 24
+    },
+    {
+        "color": "#7f38A0",
+        "female": 15,
+        "male": 96,
+        "percentage": 13.51,
+        "name": "Russia",
+        "rank": 25
+    },
+    {
+        "color": "#7f38A0",
+        "female": 14,
+        "male": 141,
+        "percentage": 9.03,
+        "name": "Vietnam",
+        "rank": 26
+    },
+    {
+        "color": "#7f38A0",
+        "female": 13,
+        "male": 205,
+        "percentage": 5.96,
+        "name": "Luxembourg",
+        "rank": 27
+    },
+    {
+        "color": "#7f38A0",
+        "female": 13,
+        "male": 64,
+        "percentage": 16.88,
+        "name": "New Zealand",
+        "rank": 28
+    },
+    {
+        "color": "#7f38A0",
+        "female": 13,
+        "male": 19,
+        "percentage": 40.63,
+        "name": "Thailand",
+        "rank": 29
+    },
+    {
+        "color": "#7f38A0",
+        "female": 13,
+        "male": 38,
+        "percentage": 25.49,
+        "name": "Ireland",
+        "rank": 30
+    },
+    {
+        "color": "#7f38A0",
+        "female": 13,
+        "male": 103,
+        "percentage": 11.21,
+        "name": "Denmark",
+        "rank": 31
+    },
+    {
+        "color": "#7f38A0",
+        "female": 10,
+        "male": 127,
+        "percentage": 7.3,
+        "name": "Belgium",
+        "rank": 32
+    },
+    {
+        "color": "#7f38A0",
+        "female": 10,
+        "male": 10,
+        "percentage": 50.0,
+        "name": "Romania",
+        "rank": 33
+    },
+    {
+        "color": "#7f38A0",
+        "female": 9,
+        "male": 45,
+        "percentage": 16.67,
+        "name": "Chile",
+        "rank": 34
+    },
+    {
+        "color": "#7f38A0",
+        "female": 8,
+        "male": 19,
+        "percentage": 29.63,
+        "name": "Saudi Arabia",
+        "rank": 35
+    },
+    {
+        "color": "#7f38A0",
+        "female": 8,
+        "male": 53,
+        "percentage": 13.11,
+        "name": "Pakistan",
+        "rank": 36
+    },
+    {
+        "color": "#7f38A0",
+        "female": 7,
+        "male": 2,
+        "percentage": 77.78,
+        "name": "Nigeria",
+        "rank": 37
+    },
+    {
+        "color": "#7f38A0",
+        "female": 6,
+        "male": 41,
+        "percentage": 12.77,
+        "name": "Turkey",
+        "rank": 38
+    },
+    {
+        "color": "#7f38A0",
+        "female": 6,
+        "male": 8,
+        "percentage": 42.86,
+        "name": "Croatia",
+        "rank": 39
+    },
+    {
+        "color": "#7f38A0",
+        "female": 5,
+        "male": 31,
+        "percentage": 13.89,
+        "name": "Iran",
+        "rank": 40
+    },
+    {
+        "color": "#7f38A0",
+        "female": 5,
+        "male": 9,
+        "percentage": 35.71,
+        "name": "Egypt",
+        "rank": 41
+    },
+    {
+        "color": "#7f38A0",
+        "female": 5,
+        "male": 27,
+        "percentage": 15.63,
+        "name": "Bangladesh",
+        "rank": 42
+    },
+    {
+        "color": "#7f38A0",
+        "female": 4,
+        "male": 106,
+        "percentage": 3.64,
+        "name": "Argentina",
+        "rank": 43
+    },
+    {
+        "color": "#7f38A0",
+        "female": 4,
+        "male": 4,
+        "percentage": 50.0,
+        "name": "United Arab Emirates",
+        "rank": 44
+    },
+    {
+        "color": "#7f38A0",
+        "female": 3,
+        "male": 1,
+        "percentage": 75.0,
+        "name": "Palestine",
+        "rank": 45
+    },
+    {
+        "color": "#7f38A0",
+        "female": 3,
+        "male": 2,
+        "percentage": 60.0,
+        "name": "Cyprus",
+        "rank": 46
+    },
+    {
+        "color": "#7f38A0",
+        "female": 3,
+        "male": 34,
+        "percentage": 8.11,
+        "name": "Greece",
+        "rank": 47
+    },
+    {
+        "color": "#7f38A0",
+        "female": 3,
+        "male": 30,
+        "percentage": 9.09,
+        "name": "Czech Republic",
+        "rank": 48
+    },
+    {
+        "color": "#7f38A0",
+        "female": 3,
+        "male": 0,
+        "percentage": 100.0,
+        "name": "Kazakhstan",
+        "rank": 49
+    },
+    {
+        "color": "#7f38A0",
+        "female": 2,
+        "male": 16,
+        "percentage": 11.11,
+        "name": "Malaysia",
+        "rank": 50
+    },
+    {
+        "color": "#7f38A0",
+        "female": 2,
+        "male": 0,
+        "percentage": 100.0,
+        "name": "United Republic of Tanzania",
+        "rank": 51
+    },
+    {
+        "color": "#7f38A0",
+        "female": 2,
+        "male": 19,
+        "percentage": 9.52,
+        "name": "Bolivia",
+        "rank": 52
+    },
+    {
+        "color": "#7f38A0",
+        "female": 2,
+        "male": 1,
+        "percentage": 66.67,
+        "name": "Republic of Serbia",
+        "rank": 53
+    },
+    {
+        "color": "#7f38A0",
+        "female": 2,
+        "male": 3,
+        "percentage": 40.0,
+        "name": "Tunisia",
+        "rank": 54
+    },
+    {
+        "color": "#7f38A0",
+        "female": 2,
+        "male": 9,
+        "percentage": 18.18,
+        "name": "Estonia",
+        "rank": 55
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 3,
+        "percentage": 25.0,
+        "name": "Ecuador",
+        "rank": 56
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 15,
+        "percentage": 6.25,
+        "name": "Colombia",
+        "rank": 57
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 0,
+        "percentage": 100.0,
+        "name": "Armenia",
+        "rank": 58
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 0,
+        "percentage": 100.0,
+        "name": "Kosovo",
+        "rank": 59
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 7,
+        "percentage": 12.5,
+        "name": "Slovakia",
+        "rank": 60
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 4,
+        "percentage": 20.0,
+        "name": "Kuwait",
+        "rank": 61
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 0,
+        "percentage": 100.0,
+        "name": "Jordan",
+        "rank": 62
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 4,
+        "percentage": 20.0,
+        "name": "Uruguay",
+        "rank": 63
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 0,
+        "percentage": 100.0,
+        "name": "Tajikistan",
+        "rank": 64
+    },
+    {
+        "color": "#7f38A0",
+        "female": 1,
+        "male": 24,
+        "percentage": 4.0,
+        "name": "Mexico",
+        "rank": 65
+    }
+]
